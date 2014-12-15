@@ -1,5 +1,5 @@
-◊header(
-	◊page-title(Contrapunctus)
-	◊subtitle(A Short Introduction to Modal Counterpoint)
-)
+#lang pollen
 
+◊header{
+	◊page-title{Contrapunctus}
+}
