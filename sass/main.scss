@@ -1,2 +1,8 @@
+@import "reset";
 @import "bourbon/bourbon";
 @import "neat/neat";
+@import "webfonts";
+
+body {
+  font-family:'equity_text_bregular';
+}
