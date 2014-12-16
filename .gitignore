@@ -1,3 +1,8 @@
+styles/main.css
 .sass-cache
 *.html
 pollen.cache
+*.map
+*.woff
+
+!template.html
