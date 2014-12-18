@@ -8,4 +8,6 @@
 (define (root . elements)
      (make-txexpr 'div '[[id "outer-container"]] (decode-elements elements)))
 
+(define (section-title . title) `(h2 ,@title))
+
 (provide page-title subtitle root)
