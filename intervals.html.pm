@@ -37,7 +37,7 @@
 	◊section-title{Interval Names}
 	◊p{Intervals are generally referred to by their ordinal names. That is, two
 	pitches that are separated by an interval of two form a ◊em{second,}
-	pitches that form an interval of three form a ◊em{third,} and so on, up to
+	pitches that form an interval of three are called a ◊em{third,} and so on, up to
 	an ◊em{eleventh} and a ◊em{twelfth} in the above example. There are two
 	exceptions to this rule. Identical pitches (that is, pitches with an interval 
 	of one) are usually referred to as a ◊em{unison}, and pitches separated by an

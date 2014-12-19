@@ -23,6 +23,11 @@ section.main-body {
 
 h1, h2 {
   @include span-columns(8);
+  border-bottom:1px solid #dde;
+}
+
+header#page-header {
+  padding-bottom:2.6em;
 }
 
 p {
@@ -50,14 +55,11 @@ body {
 
 h1 {
   font-size:2em;
-  line-height:2.6em;
   font-family:'concourse_c3';
-  font-weight:bold;
 }
 
 h2 {
   font-family:'concourse_c3';
-  font-weight:bold;
   font-size:1.3em;
   line-height:1.3em;
 }
