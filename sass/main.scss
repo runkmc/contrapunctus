@@ -31,8 +31,10 @@ p {
 }
 
 img {
-  width:100%;
   margin:0.65em 0 1.3em 0;
+  max-height:em(80);
+  display:inline-block;
+  width:100%
 }
 
 // Type
