@@ -10,4 +10,8 @@
 
 (define (section-title . title) `(h2 ,@title))
 
-(provide page-title subtitle root section-title)
+(define (main-section . elements) `(section ((class "main-body")) ,@elements))
+
+(define (sidebar . text) `(p ((class "sidebar")) ,@text))
+
+(provide page-title subtitle root section-title main-section sidebar)
