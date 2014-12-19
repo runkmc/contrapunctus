@@ -3,8 +3,8 @@
 @import "neat/neat";
 @import "webfonts";
 
-$max-width: em(800);
-body { font-size:1.3em }
+$max-width: em(690);
+body { font-size:1.5em }
 
 // Layout
 
@@ -17,8 +17,12 @@ div#outer-container {
   padding:0 1em;
 }
 
+section.main-body {
+  @include span-columns(12);
+}
+
 h1, h2 {
-  @include span-columns(8)
+  @include span-columns(8);
 }
 
 p {
@@ -48,10 +52,16 @@ h1 {
 h2 {
   font-family:'concourse_c3';
   font-weight:bold;
-  font-size:1.5em;
-  line-height:1.5em;
+  font-size:1.3em;
+  line-height:1.3em;
 }
 
 em {
   font-style:italic;
+}
+
+// Color
+
+body {
+  color:#556;
 }
