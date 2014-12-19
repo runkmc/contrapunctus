@@ -10,6 +10,7 @@ body { font-size:1.5em }
 
 body {
   padding-top:2.6em;
+  padding-bottom:2.6em;
 }
 
 div#outer-container {
@@ -26,13 +27,21 @@ h1, h2 {
   border-bottom:1px solid #dde;
 }
 
-header#page-header {
+header#page-header h1 {
   padding-bottom:2.6em;
+  border-bottom:none;
 }
 
 p {
   @include span-columns(8);
   margin:0.65em 0;
+}
+
+p.sidebar {
+  @include shift(1);
+  @include span-columns(3);
+  @include omega();
+  margin-top:1.07em;
 }
 
 img {
@@ -68,8 +77,17 @@ em {
   font-style:italic;
 }
 
+p.sidebar {
+  font-size:0.7em;
+  line-height:1.433em;
+}
+
 // Color
 
 body {
   color:#556;
+}
+
+p.sidebar {
+  color:#3B95CF;
 }
