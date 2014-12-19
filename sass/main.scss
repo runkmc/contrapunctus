@@ -3,6 +3,14 @@
 @import "neat/neat";
 @import "webfonts";
 
+// Type
+
 body {
-  font-family:'equity_text_bregular';
+  font-family:'concourse';
+  font-size:1.2em;
+  line-height:1.3em;
+}
+
+em {
+  font-style:italic;
 }
