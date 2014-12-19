@@ -7,6 +7,17 @@
 	◊p{If you've ever sung in a choir or played an instrument, you might be
 	familiar with the notes of the ◊em{staff} with a ◊em{treble clef:}}
 	◊img['src:"lilypond/pitches1.svg"]
+	◊p{Only slight less familiar is the ◊em{bass clef.} Note that the C at the
+	very top of the bass clef example is the exact same pitch as the lowest C on
+	the above treble clef example (sometimes called "middle C")}
+	◊img['src:"lilypond/pitches2.svg"]
+	◊p{The last clef we'll be using (and one I'll be introducing gradually) is
+	the ◊em{alto clef.} This clef places middle C on the third line, in the
+	very center of the staff.}
+	◊img['src:"lilypond/pitches3.svg"]
+	◊p{Knowing how these clefs relate to each other is going to be very
+	important from this point on. It will be awkward at first, but the more you
+	practice the later exercises, the easier it will become.}
 }
 ◊main-section{
 	◊section-title{Intervals}
@@ -31,4 +42,11 @@
 	exceptions to this rule. Identical pitches (that is, pitches with an interval 
 	of one) are usually referred to as a ◊em{unison}, and pitches separated by an
 	interval of eight are referred to as an ◊em{octave.}}
+	}
+◊main-section{
+	◊section-title{Exercises}
+	◊p{See if you can figure out the intervals between each of these pairs of
+	pitches. You can find the answers at the end of the next chapter (hint:
+	the first one is a unison.)}
+	◊img['src:"lilypond/intervals2.svg" 'class:"double"]
 	}
