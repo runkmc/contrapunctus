@@ -13,6 +13,10 @@
     \Staff
     \override VerticalAxisGroup.default-staff-staff-spacing.basic-distance = #24
   }
+  \context {
+  	\Voice 
+	\override Stem.length = #0
+	}
 }
 
 \header { 
@@ -26,11 +30,11 @@ global= {
 }
 
 top = \new Voice \relative c' {
-\override TextScript.outside-staff-padding = #1.6
+\override TextScript.outside-staff-padding = #1
   \set Score.timing = ##f
   \clef treble
 
-c^"C" d^"D" e^"E" f^"F" g^"G" a^"A" b^"B" c^"C" d^"D" e^"E" f^"F" g^"G" a^"A"
+c^"C" d^"D" e^"E" f^"F" g^"G" a^"A" b^"B" c_"C" d_"D" e_"E" f_"F" g_"G" a_"A"
 }
 
 \score {
