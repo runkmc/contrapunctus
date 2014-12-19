@@ -3,11 +3,26 @@
 @import "neat/neat";
 @import "webfonts";
 
+body { font-size:1.3em }
+// Layout
+
+div#outer-container {
+  @include outer-container;
+}
+
+p {
+  @include span-columns(8);
+  margin: 1.3em 0;
+}
+
+img {
+  width:100%;
+}
+
 // Type
 
 body {
   font-family:'concourse';
-  font-size:1.2em;
   line-height:1.3em;
 }
 
