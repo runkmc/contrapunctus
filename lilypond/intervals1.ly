@@ -29,6 +29,8 @@ top = \new Voice \relative c' {
 \override TextScript.outside-staff-padding = #1.6
   \set Score.timing = ##f
   \clef treble
+  \override Staff.Clef.color = #white
+  \override Staff.Clef.layer = #-1
 
 <d d>1_"1" <d e>_"2" <d f>_"3" <d g>_"4" <d a'>_"5" <d b'>_"6" <d c'>_"7" <d d'>_"8" <d e'>_"9" <d f'>_"10" <d g'>_"11" <d a''>_"12"
 }
