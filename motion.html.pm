@@ -41,4 +41,8 @@
 	are moving in opposite directions, their motion is contrary like these
 	examples:}
 	◊img['src:"lilypond/motion7.svg"]
+	◊p{◊em{Oblique} motion occurs when one voice moves and the other remains
+	stationary. In these examples, I've tied the stationary notes together for
+	emphasis:}
+	◊img['src:"lilypond/motion8.svg"]
 	}
