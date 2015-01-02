@@ -14,4 +14,6 @@
 
 (define (sidebar . text) `(p ((class "sidebar")) ,@text))
 
-(provide page-title subtitle root section-title main-section sidebar)
+(define (term . text) `(dfn ,@text))
+
+(provide page-title subtitle root section-title main-section sidebar term)
