@@ -51,7 +51,15 @@
 			perfect consonances.}
 			◊li{Your melody may never leap from F to B or the inverse, from
 			B to F.}}
-	◊p{Here are some rules regarding motion:
-		◊ul{}}
+	◊p{Here are some rules regarding motion within your own melody:}
+		◊ul{
+			◊li{Prefer stepwise movement melody over skips and leaps.
+			At least half of your movement should be stepwise.}
+			◊li{After a leap up or down, move stepwise in the opposite
+			direction.}
+			◊li{Never use two leaps in the same direction back to back. Two
+			skips in the same direction are ok, as long as you don't do it too
+			often.}
+			}
 			}
 
