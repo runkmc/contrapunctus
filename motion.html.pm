@@ -4,10 +4,9 @@
 	◊page-title{Motion}
 }
 ◊section['class:"main-body"]{
-	◊section-title{Motion in a Single Part}
 	◊p{Take a look at the following example:}
 	◊img['src:"lilypond/motion1.svg"]
-	◊p{This short example features the three types of melodic motion 
+	◊p{This short line features the three types of melodic motion 
 	that we'll be discussing: ◊em{steps, skips,} and ◊em{leaps.}}
 	◊p{A ◊em{step} is when a melody moves by the interval of a second. Here is
 	the same example as before, but now with the steps all marked:}
