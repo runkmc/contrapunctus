@@ -36,6 +36,15 @@ p {
   margin:0.65em 0;
 }
 
+ul {
+  list-style-type:square;
+  @include shift(1);
+  @include span-columns(7);
+  font-size:0.88em;
+  margin-top:0.65em;
+  margin-bottom:0.65em;
+}
+
 p.sidebar {
   @include span-columns(3);
   margin-top:1.07em;
@@ -45,7 +54,7 @@ p.sidebar {
 h2.sidebar {
   @include span-columns(3);
   @include shift(9);
-  margin-top:0.65em;
+  margin-top:0.62em;
 }
 
 h2 + p {
@@ -101,5 +110,9 @@ body {
 }
 
 .sidebar {
-  color:#3B95CF;
+  color:#3498db;
+}
+
+ul {
+  color:#d35400;
 }
