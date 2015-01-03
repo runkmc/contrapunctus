@@ -10,7 +10,7 @@
 	classifications. We will discuss which intervals are consonant, which
 	intervals are dissonant, and the different types of consonance. In the next
 	chapter, you will see why all of this matters.}
-	◊sidebar{If you've studied music theory, you'll quickly realize I'm leaving
+	◊p{If you've studied music theory, you'll quickly realize I'm leaving
 	out quite a bit when it comes to the different qualities of intervals. This
 	is intentional as these differences – with one exception I'll address
 	shortly – don't really matter
@@ -44,3 +44,4 @@
 	you watch out for it.}
 	◊p{◊em{(Here are the answers to the exercise from the last chapter: 1, 3, 7, 4,
 	8, 10, 13, 8, 7, 8.)}}}
+
