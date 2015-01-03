@@ -8,7 +8,7 @@
 (define (root . elements)
      (make-txexpr 'div '[[id "outer-container"]] (decode-elements elements)))
 
-(define (section-title . title) `(h2 ,@title))
+(define (section-title . title) `(h2 ((class "sidebar")) ,@title))
 
 (define (main-section . elements) `(section ((class "main-body")) ,@elements))
 
