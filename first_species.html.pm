@@ -34,9 +34,9 @@
 	madness like that kid in ◊em{Lord of the Flies.} You know. That book with
 	the flies. And the kid. Who was the lord of them.}
 	◊p{There is some good news and bad news about the rules. The bad news is
-	that there are a lot of them. The good news is that most of them hold for
-	all the exercises we will be doing for the rest of the book, sometimes with
-	slight variations. To help keep track of them, I'm going to break them down
+	that there are a lot of them. The good news is that they make sense when it
+	comes time to actually use them. 
+	To help keep track of them, I'm going to break them down
 	into a few different groupings. First, here is the most important rule in
 	first species counterpoint:}
 		◊rules{
@@ -49,8 +49,9 @@
 			melody has to be consonant.}
 			◊li{The first and last intervals of the entire exercise need to be
 			perfect consonances.}
-			◊li{Your melody may never leap from F to B or the inverse, from
-			B to F.}}
+			◊li{Your melody should never be more than a twelfth away from the
+			cantus firmus. You can briefly push that to a thirteenth if it
+			makes a really nice line, but that's it.}}
 	◊p{Here are some rules regarding motion within your own melody:}
 		◊rules{
 			◊li{Prefer stepwise movement melody over skips and leaps.
@@ -60,5 +61,31 @@
 			◊li{Never use two leaps in the same direction back to back. Two
 			skips in the same direction are ok, as long as you don't do it too
 			often.}
+			◊li{Your melody may never leap from F to B or the inverse, from
+			B to F.}
+			◊li{Avoid downward leaps larger than a fifth.}
+			◊li{You may use upward leaps of a sixth, but try to keep them to
+			a fifth.}
+			◊li{You may leap an octave in either direction.}
 			}
+	◊sidebar{A quick note about rule #6: If I were being strict, I would
+	only allow ascending leaps of minor sixths and not major sixths. I didn't
+	cover major/minor intervals, but if you know what I'm talking about, you
+	should only use ascending minor sixths. I'll talk a little more about this
+	in the chapter titled "Things I Didn't Talk About But Maybe Should Have."}
+	◊p{Finally, here are some rules about motion between your melody and the
+	cantus firmus:}
+		◊rules{
+			◊li{When moving to an imperfect consonance, any of the types of
+			motion (that is, parallel, oblique, similar, and contrary) are fine
+			to use.}
+			◊li{When moving to a perfect consonance, you have to use either
+			oblique or (preferably) contrary motion.}
+			◊li{Use oblique motion rarely. Keeping your melody motionless in
+				order to form oblique motion with a cantus firmus is fine, but
+				using it more than twice every eight to twelve notes is too
+				much. Keep it to a maximum of twice per exercise for now.}
+			◊li{Only use parallel motion for a maximum of four notes at a time.
+			Too much parallel motion, and your line will start to lose some of
+			its independence.}}
 			}
