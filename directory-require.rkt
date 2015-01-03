@@ -16,4 +16,6 @@
 
 (define (term . text) `(dfn ,@text))
 
-(provide page-title subtitle root section-title main-section sidebar term)
+(define (rules . text) `(ol ((class "rules")) ,@text))
+
+(provide page-title subtitle root section-title main-section sidebar term rules)

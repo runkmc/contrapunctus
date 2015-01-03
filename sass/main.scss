@@ -36,13 +36,20 @@ p {
   margin:0.65em 0;
 }
 
-ul {
-  list-style-type:square;
+ul, ol {
   @include shift(1);
   @include span-columns(7);
   font-size:0.88em;
   margin-top:0.65em;
   margin-bottom:0.65em;
+}
+
+ul {
+    list-style-type:square;
+}
+
+ol {
+  list-style-type:decimal;
 }
 
 p.sidebar {
@@ -113,6 +120,6 @@ body {
   color:#3498db;
 }
 
-ul {
+ul, ol {
   color:#d35400;
 }

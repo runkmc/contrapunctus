@@ -39,12 +39,12 @@
 	slight variations. To help keep track of them, I'm going to break them down
 	into a few different groupings. First, here is the most important rule in
 	first species counterpoint:}
-		◊ul{
+		◊rules{
 			◊li{For every note in the cantus firmus, you will have one
 			corresponding note in your own melody.}
 			}
 	◊p{Easy enough, right? Here are some rules having to do with intervals:}
-		◊ul{
+		◊rules{
 			◊li{Every interval between each note in the cantus firmus and your
 			melody has to be consonant.}
 			◊li{The first and last intervals of the entire exercise need to be
@@ -52,7 +52,7 @@
 			◊li{Your melody may never leap from F to B or the inverse, from
 			B to F.}}
 	◊p{Here are some rules regarding motion within your own melody:}
-		◊ul{
+		◊rules{
 			◊li{Prefer stepwise movement melody over skips and leaps.
 			At least half of your movement should be stepwise.}
 			◊li{After a leap up or down, move stepwise in the opposite
@@ -62,4 +62,3 @@
 			often.}
 			}
 			}
-
