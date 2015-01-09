@@ -64,14 +64,13 @@
 			◊li{Your melody may never leap from F to B or the inverse, from
 			B to F.}
 			◊li{Avoid downward leaps larger than a fifth.}
-			◊li{You may use upward leaps of a sixth, but try to keep them to
-			a fifth.}
+			◊li{Avoid upward leaps larger than a fifth.}
 			◊li{You may leap an octave in either direction.}
 			}
-	◊sidebar{A quick note about rule #6: If I were being strict, I would
-	only allow ascending leaps of minor sixths and not major sixths. I didn't
+	◊sidebar{A quick note about rule #6: If I were being strict, I would 
+	allow ascending leaps of minor sixths, but not major sixths. I didn't
 	cover major/minor intervals, but if you know what I'm talking about, you
-	should only use ascending minor sixths. I'll talk a little more about this
+	may use ascending minor sixths. I'll talk a little more about this
 	in the chapter titled "Things I Didn't Talk About But Maybe Should Have."}
 	◊p{Finally, here are some rules about motion between your melody and the
 	cantus firmus:}
@@ -88,4 +87,20 @@
 			◊li{Only use parallel motion for a maximum of four notes at a time.
 			Too much parallel motion, and your line will start to lose some of
 			its independence.}}
-			}
+	◊p{OH MAN that's a lot of rules. For the exercises, I'm going to do
+	something special. I'm going to do them along with you. In both
+	examples, I'm going to intentionally make some mistakes and break some
+	rules so you can see what not to do. Keep in mind that I am making
+	these mistakes on purpose. As you can imagine, I am usually perfect
+	otherwise.}
+	}
+◊main-section{◊section-title{Exercises}
+	◊p{I am going to give you two different cantus firmi (that's the correct
+	pluralization, as opposed to "cantus firmuses" which is actually more fun
+	to say). You job will be to write a corresponding melody ◊em{above} each
+	cantus firmus, keeping all of the rules mentioned in mind. (Hint:
+	your melody should probably be in treble clef.)
+	}
+	◊img['src:"lilypond/cantus-firmus-example2.svg"]
+	◊img['src:"lilypond/cantus-firmus-example3.svg"]
+	}
