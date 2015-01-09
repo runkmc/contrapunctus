@@ -63,7 +63,7 @@ p.sidebar {
 h2.sidebar {
   @include span-columns(3);
   @include shift(9);
-  margin-top:0.62em;
+  margin-top:0.65em;
   text-align:right;
 }
 
@@ -97,7 +97,6 @@ h1 {
 
 h2 {
   font-family:'concourse_c3';
-  line-height:1.3em;
 }
 
 h1, h2 {
