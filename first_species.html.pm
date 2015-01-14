@@ -99,7 +99,9 @@
 	pluralization, as opposed to "cantus firmuses" which is actually more fun
 	to say). You job will be to write a corresponding melody ◊em{above} each
 	cantus firmus, keeping all of the rules mentioned in mind. (Hint:
-	your melody should probably be in treble clef.)
+	your melody should probably be in treble clef.) This will take you some time,
+	and you'll probably make a lot of mistakes. Don't worry about that. Making
+	mistakes is the best way to learn. See you in the next chapter.
 	}
 	◊img['src:"lilypond/cantus-firmus-example2.svg"]
 	◊img['src:"lilypond/cantus-firmus-example3.svg"]
