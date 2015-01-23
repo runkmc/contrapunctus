@@ -41,7 +41,7 @@ top = \new Voice \relative c'' {
   \set Score.timing = ##f
   \clef treble
 
-c1_"8"^"(1)" b_"6"^"(2)" d_"6"^"(3)" c_"6"^"(4)" c_"5"^"(5)" d_"5"^"(6)" c_"3"^"(7)" b_"3"^"(8)" a_"4"^"(9)" b_"6"^"(10)" c_"8"^"(11)"
+c1_"8" b_"6" a_"3" c_"6" d_"6" e_"6" c_"3" d_"5" c_"6" b_"6" c_"8"
 }
 
 cantus = \new Voice \relative c' {
