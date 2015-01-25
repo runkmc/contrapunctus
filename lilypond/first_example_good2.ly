@@ -41,7 +41,7 @@ top = \new Voice \relative c'' {
   \set Score.timing = ##f
   \clef treble
 
-c1_"8" b_"6" a_"3" c_"6" d_"6" e_"6" c_"3" d_"5" c_"6" b_"6" c_"8"
+e1_"8" e_"6" d_"6" g_"10" f_"6" e_"6" d_"3" c_"3" e_"6" d_"6" e_"8"
 }
 
 cantus = \new Voice \relative c' {
@@ -49,7 +49,7 @@ cantus = \new Voice \relative c' {
   \set Score.timing = ##f
   \clef alto
 
-c1 d f e f g a g e d c
+e1 g f e a g b a g f e
 }
 
 \score {

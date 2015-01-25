@@ -53,9 +53,9 @@ c1 d f e f g a g e d c
 }
 
 \score {
-\new StaffGroup <<
-\override StaffGroup.SystemStartBracket #'transparent = ##t
+\new StaffGroup { <<
+\set StaffGroup.systemStartDelimiter = #'SystemStartSquare
 	\new Staff << \global \top >>
 	\new Staff << \global \cantus >>
-	>>
+	>> }
 }

@@ -27,4 +27,30 @@
 	there, but that's a dissonance. Only consonances are allowed here.}
 	◊p{Yikes. That one was rough. Here's a better example:}
 	◊img['src:"lilypond/first_example_good1.svg" 'class:"double"]
+	◊p{That's better. I've avoided the mistakes from the first try, and it's
+	a more interesting melody as well. I'm going to reward myself with
+	a delicious treat while you find the problems in this next exercise:}
+	◊img['src:"lilypond/first_example_bad2.svg" 'class:"double"]
+	}
+◊main-section{
+	◊section-title{Exercise 2}
+	◊p{Let's start with the most obvious error. Remember earlier in this
+	chapter when I said anytime you have consecutive fifths or octaves, that's
+	a problem? Look at the seventh and eighth notes. There they are again.
+	That's not the only problematic fifth in this exercise, though. There are
+	two more. One of the rules states that when moving to a perfect consonance,
+	you have to use either oblique or (preferably) contrary motion. That rules
+	out parallel motion, as well as similar motion. While moving from the sixth
+	to the seventh notes, we go from an interval of a sixth to an interval of
+	a fifth. That's fine, but we used similar motion to get there. That's not.
+	I'll leave it to you to find the other one (hint: It's the only other fifth
+	in the exercise. I'm not as tricky as I originally thought myself to be.)}
+	◊p{There's only one other mistake in this exercise, but it's one I make
+	three times in a row. It's much more subtle than parallel fifths, too. In
+	the top line, the movement from the second note to the third note is a leap
+	from B to F. That's bad! That's the one instance of a fifth that's
+	dissonant, and is the only leap of a fifth that's forbidden within one
+	line. If you keep going, you'll notice that I proceed to leap back to the
+	the B, and then back again to the F. Oof. Here's a better attempt:}
+	◊img['src:"lilypond/first_example_good2.svg" 'class:"double"]
 	}
