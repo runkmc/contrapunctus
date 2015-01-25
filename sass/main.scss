@@ -4,21 +4,60 @@
 @import "webfonts";
 
 $max-width: em(699);
+$sidebar-color: #3498db;
+$body-color: #556;
+
 body { font-size:1.35em }
 
 // Layout
 
-body {
-  padding-bottom:2.6em;
-}
-
-div#outer-container {
+div#full-page {
   @include outer-container;
   padding:0 1em;
 }
 
 section.main-body {
   @include span-columns(12);
+}
+
+nav {
+  @include span-columns(12);
+  font-size:0.88em;
+  color:black;
+  border-bottom:1px solid #d2d7d3;
+
+  &.bottom-nav {
+    border-bottom:none;
+    border-top:1px solid #d2d7d3;
+    margin-top:1.45em;
+  }
+
+  a {
+    display:box;
+    @include span-columns(5);
+    text-decoration:none;
+    color:$body-color;
+    padding:1em 0;
+
+    &:hover {
+      background-color:#f8f8f8;
+      color:$sidebar-color;
+    }
+  }
+  
+  a.previous {
+    padding-left:1em;
+  }
+
+  a.top {
+    @include span-columns(2);
+    text-align:center;
+  }
+
+  a.next {
+    text-align:right;
+    padding-right:1em;
+  }
 }
 
 h1 {
@@ -115,11 +154,11 @@ p.sidebar {
 // Color
 
 body {
-  color:#556;
+  color:$body-color;
 }
 
 .sidebar {
-  color:#3498db;
+  color:$sidebar-color;
 }
 
 ul, ol {
