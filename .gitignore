@@ -6,3 +6,4 @@ pollen.cache
 *.woff
 
 !template.html
+!index.html
