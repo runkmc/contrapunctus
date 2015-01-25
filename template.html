@@ -3,5 +3,17 @@
 	<title>Contrapunctus</title>
 	<link rel="stylesheet" href="styles/main.css">
 </head>
-<body>◊(->html doc)</body>
+<body>
+	<div id="full-page">
+		◊(define prev-page (previous here))
+		◊(define next-page (next here))
+		◊when/block[prev-page]{&#8592; <a class="previous" href="◊|prev-page|">◊(select 'h1 prev-page)</a>}
+		<a class="top" href="index.html">&#8593; Top</a>
+		◊when/block[next-page]{<a class="next" href="◊|next-page|">◊(select 'h1 next-page)</a> &#8594;}
+		◊(->html doc)
+		◊when/block[prev-page]{&#8592; <a class="previous" href="◊|prev-page|">◊(select 'h1 prev-page)</a>}
+		<a class="top" href="index.html">&#8593; Top</a>
+		◊when/block[next-page]{<a class="next" href="◊|next-page|">◊(select 'h1 next-page)</a> &#8594;}
+	</div>
+</body>
 </html>
