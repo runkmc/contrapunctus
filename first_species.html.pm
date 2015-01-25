@@ -71,7 +71,7 @@
 	allow ascending leaps of minor sixths, but not major sixths. I didn't
 	cover major/minor intervals, but if you know what I'm talking about, you
 	may use ascending minor sixths. I'll talk a little more about this
-	in the chapter titled "Things I Didn't Talk About But Maybe Should Have."}
+	in the chapter titled “Things I Didn't Talk About But Maybe Should Have.”}
 	◊p{Finally, here are some rules about motion between your melody and the
 	cantus firmus:}
 		◊rules{
@@ -96,7 +96,7 @@
 	}
 ◊main-section{◊section-title{Exercises}
 	◊p{I am going to give you two different cantus firmi (that's the correct
-	pluralization, as opposed to "cantus firmuses" which is actually more fun
+	pluralization, as opposed to “cantus firmuses” which is actually more fun
 	to say). You job will be to write a corresponding melody ◊em{above} each
 	cantus firmus, keeping all of the rules mentioned in mind. (Hint:
 	your melody should probably be in treble clef.) This will take you some time,
