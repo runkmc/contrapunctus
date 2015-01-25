@@ -4,14 +4,14 @@
 	◊page-title{Pitches and Intervals}
 }
 ◊main-section{
-	◊p{If you've ever sung in a choir or played an instrument, you might be
+	◊p{If you’ve ever sung in a choir or played an instrument, you might be
 	familiar with the notes of the ◊term{staff} with a ◊term{treble clef:}}
 	◊img['src:"lilypond/pitches1.svg"]
 	◊p{Only slight less familiar is the ◊term{bass clef.} Note that the C at the
 	very top of the bass clef example is the exact same pitch as the lowest C on
 	the above treble clef example (sometimes called "middle C")}
 	◊img['src:"lilypond/pitches2.svg"]
-	◊p{The last clef we'll be using (and one I'll be introducing gradually) is
+	◊p{The last clef we’ll be using (and one I’ll be introducing gradually) is
 	the ◊term{alto clef.} This clef places middle C on the third line, in the
 	very center of the staff.}
 	◊img['src:"lilypond/pitches3.svg"]

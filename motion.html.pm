@@ -7,12 +7,12 @@
 	◊p{Take a look at the following example:}
 	◊img['src:"lilypond/motion1.svg"]
 	◊p{This short line features the three types of melodic motion 
-	that we'll be discussing: ◊em{steps, skips,} and ◊em{leaps.}}
+	that we’ll be discussing: ◊em{steps, skips,} and ◊em{leaps.}}
 	◊p{A ◊em{step} is when a melody moves by the interval of a second. Here is
 	the same example as before, but now with the steps all marked:}
 	◊img['src:"lilypond/motion2.svg"]
 	◊p{Skips are melodic movement by a third. This happens twice in the
-	example; I've marked them below.}
+	example; I’ve marked them below.}
 	◊img['src:"lilypond/motion3.svg"]
 	◊p{There is exactly one leap in the example below. A leap is movement by
 	an interval of a fourth or more. This one is a leap of a fifth.}
@@ -23,7 +23,7 @@
 	◊p{Movement within a single part is easy enough to describe, but we will
 	also need a way to describe the different types of motion that can occur
 	between two parts. In other words, motion in a single part could also be
-	called ◊em{horizontal motion.} Now, we'll be discussing ◊em{vertical
+	called ◊em{horizontal motion.} Now, we’ll be discussing ◊em{vertical
 	motion.}}
 	◊p{There are essentially four different types of motion that can occur
 	between two parts moving together. These four types are ◊em{parallel,
@@ -36,12 +36,12 @@
 	while the second voice ascends by a skip. Examples are below:}
 	◊img['src:"lilypond/motion6.svg"]
 	◊p{◊em{Contrary} motion describes two voices moving in opposite directions.
-	It doesn't matter if the voices are moving by step, skip, or leap. If they
+	It doesn’t matter if the voices are moving by step, skip, or leap. If they
 	are moving in opposite directions, their motion is contrary like these
 	examples:}
 	◊img['src:"lilypond/motion7.svg"]
 	◊p{◊em{Oblique} motion occurs when one voice moves and the other remains
-	stationary. In these examples, I've tied the stationary notes together for
+	stationary. In these examples, I’ve tied the stationary notes together for
 	emphasis:}
 	◊img['src:"lilypond/motion8.svg"]
 	}
