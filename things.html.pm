@@ -18,6 +18,6 @@
 	music should probably offer this course occasionally, and I wouldn’t be
 	surprised to find it at some community colleges with substantial music
 	departments as well. }
-	◊p{Otherwise, you can always contact me here with questions or with
+	◊p{Otherwise, you can always contact me ◊span['id:"obf"]{◊script{document.getElementById("obf").innerHTML="<n uers=\"znvygb:xriva.zptynqqrel@tznvy.pbz\" gnetrg=\"_oynax\">urer</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);}◊noscript{◊span['style:"unicode-bidi:bidi-override;direction:rtl;"]{moc.liamg@yreddalgcm.nivek}}} with questions or with
 	exercises that you would like feedback on. Trust me, I like it.}
 	◊p{Thanks for reading!}}
