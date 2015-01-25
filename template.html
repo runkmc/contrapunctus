@@ -7,13 +7,17 @@
 	<div id="full-page">
 		◊(define prev-page (previous here))
 		◊(define next-page (next here))
-		◊when/block[prev-page]{&#8592; <a class="previous" href="◊|prev-page|">◊(select 'h1 prev-page)</a>}
-		<a class="top" href="index.html">&#8593; Top</a>
-		◊when/block[next-page]{<a class="next" href="◊|next-page|">◊(select 'h1 next-page)</a> &#8594;}
+		<nav class="top-nav">
+			◊when/block[prev-page]{<a class="previous" href="◊|prev-page|">&#8592; ◊(select 'h1 prev-page)</a>}
+			<a class="top" href="index.html">&#8593; Top</a>
+			◊when/block[next-page]{<a class="next" href="◊|next-page|">◊(select 'h1 next-page) &#8594;</a>}
+		</nav>
 		◊(->html doc)
-		◊when/block[prev-page]{&#8592; <a class="previous" href="◊|prev-page|">◊(select 'h1 prev-page)</a>}
-		<a class="top" href="index.html">&#8593; Top</a>
-		◊when/block[next-page]{<a class="next" href="◊|next-page|">◊(select 'h1 next-page)</a> &#8594;}
+		<nav class="bottom-nav">
+			◊when/block[prev-page]{<a class="previous" href="◊|prev-page|">&#8592; ◊(select 'h1 prev-page)</a>}
+			<a class="top" href="index.html">&#8593; Top</a>
+			◊when/block[next-page]{<a class="next" href="◊|next-page|">◊(select 'h1 next-page) &#8594;</a>}
+		</nav>
 	</div>
 </body>
 </html>
