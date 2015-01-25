@@ -195,14 +195,51 @@ p.sidebar {
   line-height:1.443em;
 }
 
+body.title-page h1 {
+  font-size:3.3em;
+  margin-top:1em;
+  @include media($mobile) {
+    font-size:2em;
+    margin-top:0;
+  }
+}
+
+body.title-page p {
+  @include span-columns(12);
+  text-transform:lowercase;
+  font-size:1.25em;
+  font-family:'concourse_c3';
+  @include media($mobile) {
+    @include span-columns(4);
+  }
+}
+
+body.title-page ol {
+  list-style-type:upper-roman;
+}
+
 // Color
 
 body {
   color:$body-color;
 }
 
+body.title-page ol {
+  color:black;
+}
+
 .sidebar {
   color:$sidebar-color;
+}
+
+a {
+  color:$sidebar-color;
+  text-decoration:none;
+
+  &:hover {
+    color:$body-color;
+    text-decoration:underline;
+  }
 }
 
 ul, ol {
