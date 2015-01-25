@@ -6,6 +6,12 @@
 ◊main-section{◊p{The End!}
 	◊p{That was kind of abrupt. Sorry. You’ve reached the end, though. Good for
 	you!}
+	◊p{As the title of this chapter mentions, there is quite a bit I left out
+	in this very basic introduction. I didn't mention any of the modes, or the
+	difference between major and minor intervals. I left out some of the
+	elements that make a melodic line interesting. Most notably, I didn't
+	mention anything past first species, leaving the remaining four out
+	completely. If you're interested, there is much, much more to explore.}
 	◊p{If you want to keep going, there are lots of wonderful books out there.
 	My three favorites are ◊a['href: "http://www.amazon.com/Modal-Counterpoint-Renaissance-Peter-Schubert/dp/019533194X/ref=sr_1_1?ie=UTF8&qid=1422167927&sr=8-1&keywords=modal+counterpoint"]{Modal Counterpoint}, 
 	◊a['href: "http://www.amazon.com/Counterpoint-Polyphonic-Vocal-Sixteenth-Century/dp/048627036X/ref=sr_1_1?ie=UTF8&qid=1422168094&sr=8-1&keywords=counterpoint+knud"]{Counterpoint: The Polyphonic Vocal Style of the Sixteenth Century}, and 
