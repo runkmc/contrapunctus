@@ -51,6 +51,6 @@
 	from B to F. That's bad! That's the one instance of a fifth that's
 	dissonant, and is the only leap of a fifth that's forbidden within one
 	line. If you keep going, you'll notice that I proceed to leap back to the
-	the B, and then back again to the F. Oof. Here's a better attempt:}
+	the B, and then back again to the F. Oh my. Here's a better attempt:}
 	◊img['src:"lilypond/first_example_good2.svg" 'class:"double"]
 	}
