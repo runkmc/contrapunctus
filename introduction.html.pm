@@ -9,22 +9,23 @@ introduction to modal counterpoint for the beginner.}
 	style of music was written by masters, and continues to be performed
 	centuries later. There is a wonderful selection of textbooks on this
 	subject both old and contemporary, written by some of the most
-	knowledgeable teachers and musicians in the world, that beautifully lay out the art of music
+	knowledgeable teachers and musicians in the world, which beautifully lay out the art of music
 	for anyone willing to dedicate the time and effort. (By
 	“contemporary”, I mean “not translated from the original latin.”) I, on the
 	other hand, am routinely outsmarted by the family dog, feeding him upwards
 	of three dinners a night because I trust his memory of the event more than
 	mine.}
 	◊p{So why read this book? Well, most books on the subject assume the
-	presence of an instructor. The reason for this is simple: this subject
-	requires the presence of an instructor. There are elements of this practice
+	presence of an instructor. The reason is simple: this subject
+	requires the presence of an instructor. There are elements of counterpoint
 	that are quite subjective. Most subjective of all of them is the element of
 	beauty. You can no more learn how to write beautiful and compelling
 	counterpoint by reading a book than you can learn to take beautiful
-	photographs by reading a camera manual. This book attempts to briefly fill
-	in that gap for someone who might not have an instructor available. I have
-	tried to further explain some things that other books assume prior
-	knowledge of, and I offer poor examples along with more competent ones, so
+	photographs by reading a camera manual. So while this book cannot replace the classroom format, 
+	it attempts to briefly provide the perspective that an instructor might provide in a classroom setting
+	for someone who might not have an instructor available. I have
+	also tried to further explain some things where other books assume prior
+	knowledge. I offer poor examples along with more competent ones, so
 	that the difference may be examined. I hope you find it helpful.}
 	◊p{To navigate through the book, links to the previous and next chapters
 	may be found on the top and bottom of each page, as well as a link to the
