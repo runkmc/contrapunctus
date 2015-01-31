@@ -18,4 +18,6 @@
 
 (define (rules . text) `(ol ((class "rules")) ,@text))
 
-(provide page-title subtitle root section-title main-section sidebar term rules)
+(define (footnote . text) `(span ((class "footnote")) ,@text))
+
+(provide page-title subtitle root section-title main-section sidebar term rules footnote)
