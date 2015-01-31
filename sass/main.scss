@@ -3,10 +3,10 @@
 @import "neat/neat";
 @import "webfonts";
 
-$max-width: em(699);
+$max-width: 47em;
 $sidebar-color: #3498db;
 $body-color: #556;
-$mobile: new-breakpoint(max-width 820px 4);
+$mobile: new-breakpoint(max-width 769px 4);
 
 body { font-size:1.33em }
 
