@@ -64,10 +64,10 @@
 			◊li{Your melody may never leap from F to B or the inverse, from
 			B to F.}
 			◊li{Avoid downward leaps larger than a fifth.}
-			◊li{Avoid upward leaps larger than a fifth.}
+			◊li{Avoid upward leaps larger than a fifth.◊footnote{†}}
 			◊li{You may leap an octave in either direction.}
 			}
-	◊sidebar{A quick note about rule #6: If I were being strict, I would 
+	◊sidebar{† If I were being strict, I would 
 	allow ascending leaps of minor sixths, but not major sixths. I didn’t
 	cover major/minor intervals, but if you know what I’m talking about, you
 	may use ascending minor sixths. I’ll talk a little more about this
