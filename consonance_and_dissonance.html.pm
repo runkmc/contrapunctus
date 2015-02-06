@@ -38,7 +38,7 @@
 	actually dissonant! Here’s why: every other fifth in this example is
 	exactly seven half steps apart, but this particular fifth, from B to F, is
 	only six half steps apart. Instead of a ◊em{perfect} fifth, this
-	forms a ◊em{diminished} fifth. This is the only interval in this system
+	forms a ◊em{diminished} fifth. The fifth is the only interval in this system
 	that can be consonant or dissonant depending on its location, and these are
 	the only two pitches (B and F) that form it, so make sure
 	you watch out for it.}

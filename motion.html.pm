@@ -15,7 +15,7 @@
 	example; I’ve marked them below.}
 	◊img['src:"lilypond/motion3.svg"]
 	◊p{There is exactly one leap in the example below. A leap is movement by
-	an interval of a fourth or more. This one is a leap of a fifth.}
+	an interval of a fourth or more. This example is a leap of a fifth.}
 	◊img['src:"lilypond/motion4.svg"]
 }
 ◊main-section{

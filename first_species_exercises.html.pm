@@ -7,7 +7,7 @@
 	exercises. In fact, if you desire some help, feel free to contact me.
 	I would seriously be more than happy to give feedback. If you don’t believe
 	me, keep in mind that I wrote an online booklet about this very subject for
-	kicks. That’s how unbalanced I am. I like this stuff.}
+	kicks. That’s how much I like this stuff.}
 	◊p{In the meantime, I’ve done the exercises myself, twice. First we will
 	look at an answer with some errors. I’ll ask you to try to find as many
 	mistakes as possible, then I’ll point them out myself. After that, I’ll
@@ -42,8 +42,8 @@
 	you have to use either oblique or (preferably) contrary motion. That rules
 	out parallel motion, as well as similar motion. While moving from the sixth
 	to the seventh notes, we go from an interval of a sixth to an interval of
-	a fifth. That’s fine, but we used similar motion to get there. That’s not.
-	I’ll leave it to you to find the other one (hint: It’s the only other fifth
+	a fifth. That’s fine, but we used similar motion to get there, which is not fine.
+	I’ll leave it to you to find the other fifth that is arrived at by similar motion. (Hint: It’s the only other fifth
 	in the exercise. I’m not as tricky as I originally thought myself to be.)}
 	◊p{There’s only one other mistake in this exercise, but it’s one I make
 	three times in a row. It’s much more subtle than parallel fifths, too. In

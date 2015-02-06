@@ -4,7 +4,7 @@
 	◊page-title{First Species}
 	}
 ◊main-section{
-	◊p{If your vision isn’t too blurred from all that trembling with excitement
+	◊p{If your vision isn’t too blurred from all of the trembling with excitement
 	you’re undoubtedly experiencing, it’s time to prepare for your very first
 	counterpoint exercise.}
 	◊p{Here is how this is going to go down. I’m going to give you a melody,
@@ -24,7 +24,7 @@
 	will always start and end on the same note. Their length can vary, but most
 	of them will be between eight and ten notes long. I’ll also always
 	give them to you in alto clef. This is mostly because learning alto clef is
-	good for you, and only partially because I hate you and want you to feel
+	good for you, and only a little because I hate you and want you to feel
 	pain.
 	}}
 ◊main-section{◊section-title{First Species Rules}

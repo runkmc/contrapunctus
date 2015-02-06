@@ -17,11 +17,11 @@
 	◊a['href: "http://www.amazon.com/Counterpoint-Polyphonic-Vocal-Sixteenth-Century/dp/048627036X/ref=sr_1_1?ie=UTF8&qid=1422168094&sr=8-1&keywords=counterpoint+knud"]{Counterpoint: The Polyphonic Vocal Style of the Sixteenth Century}, and 
 	◊a['href:
 	"http://www.amazon.com/Study-Counterpoint-Johann-Joseph-Parnassum/dp/0393002772/ref=sr_1_1?ie=UTF8&qid=1422168190&sr=8-1&keywords=steps+to+parnassus"]{Study of Counterpoint}. 
-	There are other good books, but those are three of my favorites.}
-	◊p{The best thing you can do, however, is join a class. I stated at the
+	There are other good books, but those are three of the best.}
+	◊p{If you are truly interested in this subject, however, I highly recommend joining a class. I stated at the
 	beginning of the book that an instructor is vital to truly understanding
-	this, and it really is true. Most four year colleges that offer degrees in
-	music should probably offer this course occasionally, and I wouldn’t be
+	modal counterpoint, and it really is true. Most four year colleges that offer degrees in
+	music should offer this course occasionally, and I wouldn’t be
 	surprised to find it at some community colleges with substantial music
 	departments as well. }
 	◊p{Otherwise, you can always contact me ◊span['id:"obf"]{◊script{document.getElementById("obf").innerHTML="<n uers=\"znvygb:xriva.zptynqqrel@tznvy.pbz\" gnetrg=\"_oynax\">urer</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});document.body.appendChild(eo);}◊noscript{◊span['style:"unicode-bidi:bidi-override;direction:rtl;"]{moc.liamg@yreddalgcm.nivek}}} with questions or with
